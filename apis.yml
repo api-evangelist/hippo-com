@@ -1,0 +1,90 @@
+aid: hippo-com
+name: Hippo
+description: >-
+  Hippo is a US homeowners insurance carrier headquartered in Palo Alto,
+  California, operating as the insurance subsidiary of Hippo Holdings Inc.
+  (NYSE: HIPO). Founded in 2015, Hippo modernizes home insurance with
+  instant online quotes — typically under sixty seconds — and a smart home
+  oriented approach that pairs policies with proactive home maintenance
+  guidance through the Hippo Home mobile app, DIY checklists, home health
+  scoring, and partnerships with smart device makers. The company writes
+  homeowners, condo, landlord, flood, auto, and pet policies and operates
+  as both a direct-to-consumer brand and an MGA distributing through a
+  network of 70+ carrier partners, including Bamboo, Stillwater,
+  Nationwide, American Integrity, Liberty Mutual, and Progressive. Hippo's
+  underwriting capacity is anchored by its wholly-owned admitted carrier,
+  Spinnaker Insurance Company, acquired in 2020. Hippo serves 500K+
+  homeowners across the United States, with concentrated presence in
+  Texas, California, Arizona, Colorado, Missouri, Ohio, South Carolina,
+  Tennessee, and Virginia. There is no publicly documented developer API,
+  SDK, or open-source release for Hippo or Spinnaker; the GitHub
+  organization hippoinsurance exists but has no public repositories, and
+  the api.hippo.com hostname is not exposed to the public internet.
+  Integrations with smart home device partners, agents, and MGA carriers
+  are handled through private partner channels rather than an open
+  developer program.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Insurance
+  - Home Insurance
+  - Homeowners Insurance
+  - Smart Home
+  - Insurtech
+  - Property Insurance
+  - Condo Insurance
+  - Landlord Insurance
+  - Flood Insurance
+  - MGA
+  - Carrier
+  - Claims
+  - Underwriting
+  - Mobile App
+  - Consumer
+url: https://raw.githubusercontent.com/api-evangelist/hippo-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.hippo.com
+  - type: Quote
+    url: https://www.hippo.com
+  - type: Claims
+    url: https://www.hippo.com/claim
+  - type: Account
+    url: https://myhippo.com/account
+  - type: Agents
+    url: https://www.hippo.com/agents
+  - type: LearnCenter
+    url: https://www.hippo.com/learn-center
+  - type: Blog
+    url: https://www.hippo.com/blog
+  - type: FAQ
+    url: https://faq.hippo.com/en/
+  - type: Contact
+    url: https://www.hippo.com/contact-us
+  - type: Careers
+    url: https://www.hippo.com/careers
+  - type: Legal
+    url: https://www.hippo.com/legal-information
+  - type: Security
+    url: https://trust.hippo.com
+  - type: Investors
+    url: https://investors.hippoholdings.com
+  - type: Spinnaker
+    url: https://www.spinnakerins.com
+  - type: GitHub
+    url: https://github.com/hippoinsurance
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hippo-insurance
+  - type: Twitter
+    url: https://twitter.com/HippoInsurance
+  - type: Facebook
+    url: https://www.facebook.com/HippoInsurance
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
