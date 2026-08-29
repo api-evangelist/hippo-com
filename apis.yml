@@ -16,6 +16,17 @@ description: 'Hippo is a US homeowners insurance carrier headquartered in Palo A
   with smart home device partners, agents, and MGA carriers are handled through private partner channels
   rather than an open developer program.'
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
