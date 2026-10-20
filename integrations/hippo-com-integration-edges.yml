@@ -16,3 +16,5 @@ edges:
   covered_as: hippo
   detected_by: sweep-insurance.py
   detected: '2026-10-19'
+source:
+- https://app.usecanopy.com/api/v1.0.0/carriers
