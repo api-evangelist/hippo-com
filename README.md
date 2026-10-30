@@ -1,4 +1,4 @@
-# hippo-com
+# Hippo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,108 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hippo — US smart home homeowners insurance carrier
+Hippo is a US homeowners insurance carrier headquartered in Palo Alto, California, operating as the insurance subsidiary of Hippo Holdings Inc. (NYSE: HIPO). Founded in 2015, Hippo modernizes home insurance with instant online quotes — typically under sixty seconds — and a smart home oriented approach that pairs policies with proactive home maintenance guidance through the Hippo Home mobile app, DIY checklists, home health scoring, and partnerships with smart device makers. The company writes homeowners, condo, landlord, flood, auto, and pet policies and operates as both a direct-to-consumer brand and an MGA distributing through a network of 70+ carrier partners, including Bamboo, Stillwater, Nationwide, American Integrity, Liberty Mutual, and Progressive. Hippo's underwriting capacity is anchored by its wholly-owned admitted carrier, Spinnaker Insurance Company, acquired in 2020. Hippo serves 500K+ homeowners across the United States, with concentrated presence in Texas, California, Arizona, Colorado, Missouri, Ohio, South Carolina, Tennessee, and Virginia. There is no publicly documented developer API, SDK, or open-source release for Hippo or Spinnaker; the GitHub organization hippoinsurance exists but has no public repositories, and the api.hippo.com hostname is not exposed to the public internet. Integrations with smart home device partners, agents, and MGA carriers are handled through private partner channels rather than an open developer program.
+
+**Areas:** Insurance · Home Insurance · Smart Home · Insurtech · Property Insurance · Condo Insurance · Landlord Insurance · Flood Insurance · MGA · Carrier · Claims · Underwriting
+
+## Hippo on APIs.io
+
+Everything profiled for Hippo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hippo-com/](https://apis.io/providers/hippo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (4)
+
+- [Hippo Consumer Quote & Bind](https://apis.io/apis/hippo-com/hippo-consumer/) — Direct-to-consumer homeowners quote, bind, and policy management. Quotes delivered in under 60 seconds. No public API; carrier partnerships are managed via…
+- [Hippo Home App](https://apis.io/apis/hippo-com/hippo-home/) — Hippo Home is the consumer smart-home companion app for iOS and Android. Provides DIY maintenance checklists, seasonal guidance, and a home health score. No…
+- [First Connect (Independent Agent Platform)](https://apis.io/apis/hippo-com/first-connect/) — First Connect, a Hippo subsidiary, is an API-first digital platform giving independent agents one-stop access to 100+ home, auto, cyber, small business,…
+- [Spinnaker Insurance (MGA Carrier Paper)](https://apis.io/apis/hippo-com/spinnaker/) — Spinnaker is Hippo's affiliated specialty admitted carrier providing paper for MGAs and program administrators. Integrations are sales-led.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hippo Com Domain Security](https://apis.io/security/hippo-com/hippo-com-domain-security/)
+- [Hippo Com Trust Center](https://apis.io/security/hippo-com/hippo-com-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Hippo Com Plans Pricing](https://apis.io/plans/hippo-com/hippo-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Hippo Com Rate Limits](https://apis.io/rate-limits/hippo-com/hippo-com-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Hippo Com Finops](https://apis.io/finops/hippo-com/hippo-com-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hippo.com)
+- [Blog](https://www.hippo.com/blog)
+- [Security](https://trust.hippo.com)
+- [Compliance](https://trust.hippo.com/)
+
+## API Evangelist rating
+
+**Kin Score 12.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.6** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hippo-com/](https://apis.io/providers/hippo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hippo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hippo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
